@@ -7,5 +7,5 @@ Web-Developer
 
 
 ## 🛠 Skills
-Javascript, HTML, CSS...
+Java
 
