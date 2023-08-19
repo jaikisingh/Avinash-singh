@@ -8,5 +8,5 @@ Web-Developer
 
 ## 🛠 Skills
 Java
-https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxBt-Bxs8j9FgI7vq1jXaK2HEnjprCio_KOSoAbZwJ9Q&s
+![avi java](https://github.com/avinashsingh9140/Readme-example/assets/122303390/8de076b7-384d-4fcf-81df-2673a08678bb)
 
