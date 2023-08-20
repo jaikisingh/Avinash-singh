@@ -17,9 +17,11 @@
 ### ⚙️ &nbsp;GitHub Analytics
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aV&show_icons=true&locale=en&layout=compact" alt="avinashsingh" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=avadheshshukla&show_icons=true&locale=en" alt="avinashsingh" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avadheshshukla&" alt="avinashsingh" /></p>
+<!-- GitHub Stats Widget -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=<GITHUB_USERNAME>&show_icons=true&count_private=true&hide_title=true)
+
+
 
 
 <h3 align="left">🤝🏻 &nbsp;Connect with Me</h3>
