@@ -27,7 +27,7 @@
 <h3 align="left">🤝🏻 &nbsp;Connect with Me</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/avinash-singh-9721b6150" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Avinash Singh" height="30" width="40" /></a>
-<a href="[(https://instagram.com/avinashsingh4900?utm_source=qr&igshid=ZDc4ODBmNjlmNQ%3D%3D)]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__branded_pandit_1008___" height="30" width="40" /></a>
+<a href="(https://instagram.com/avinashsingh4900?utm_source=qr&igshid=ZDc4ODBmNjlmNQ%3D%3D)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__branded_pandit_1008___" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/AVINASH_85?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@AVINASH_85" height="30" width="40" /></a>
 <a href="https://leetcode.com/AVINASH_85/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="AVINASH_85" height="30" width="40" /></a>
 <a href="https://discord.gg/Avadhesh-1636#1298" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Avadhesh-1636#1298" height="30" width="40" /></a>
