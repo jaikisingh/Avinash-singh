@@ -18,8 +18,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aV&show_icons=true&locale=en&layout=compact" alt="avinashsingh" /></p>
 
 
-<!-- GitHub Stats Widget -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=<GITHUB_USERNAME>&show_icons=true&count_private=true&hide_title=true)
+
 
 
 
