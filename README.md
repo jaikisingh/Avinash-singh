@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Avinash Singh</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=avinashsingh9140&label=Profile%20views&color=0e75b6&style=flat" alt="avinashsingh9140" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jaikisingh&label=Profile%20views&color=0e75b6&style=flat" alt="jaikisingh" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avinashsingh9140" alt="avinashsingh9140" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avinashsingh9140" alt="jaikisingh" /></a> </p>
 
-- 🔭 I’m currently working on [Expence_Tracker_API](https://github.com/avinashsingh9140/ExpenseTrackerAPI.git)
+- 🔭 I’m currently working on [Expence_Tracker_API](https://github.com/jaikisingh/ExpenseTrackerAPI.git)
 
 - 🌱 I’m currently learning **html ,css**
 
-- 👯 I’m looking to collaborate on [Doctor_Appointment_Booking_App](https://github.com/avinashsingh9140/DoctorAppointmentBookingApp.git)
+- 👯 I’m looking to collaborate on [Doctor_Appointment_Booking_App](https://github.com/jaikisingh/DoctorAppointmentBookingApp.git)
 
-- 🤝 I’m looking for help with [instagram_Backend](https://github.com/avinashsingh9140/instaBackend.git)
+- 🤝 I’m looking for help with [instagram_Backend](https://github.com/jaikisingh/instaBackend.git)
 
 - 💬 Ask me about **java,oops,spring-boot**
 
@@ -29,7 +29,7 @@
 <a href="https://instagram.com/avinashsingh4900" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="avinashsingh4900" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@avinash_85" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@avinash_85" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/avinash_85" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="avinash_85" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/avinash_85" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="avinash_85" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/jaikisingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="avinash_85" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@avinash_85" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@avinash_85" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/jaikisi0v2q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/jaikisi0v2q" height="30" width="40" /></a>
 </p>
@@ -42,6 +42,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=avinashsingh9140&show_icons=true&locale=en&layout=compact" alt="avinashsingh9140" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=avinashsingh9140&show_icons=true&locale=en" alt="avinashsingh9140" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaikisingh&show_icons=true&locale=en" alt="jaikisingh" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avinashsingh9140&" alt="avinashsingh9140" /></p>
